@@ -75,7 +75,7 @@ You can show your support via:
 ## 🔗 Connect With Me
 
 - **X:** [avinash Reddy](https://x.com/dareddy0009)
-- **Discord**: `x1xh`
+- **Discord**: `x2x2xw`
 
 ---
 
@@ -92,7 +92,7 @@ You can show your support via:
 
 ## 📊 Star History
 
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
+<a href="https://www.star-history.com/#x1xhlol/Ai-sample">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
